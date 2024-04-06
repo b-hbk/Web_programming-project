@@ -1,0 +1,15 @@
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+
+  }
+  .dropdown-menu:hover{
+    background-color: #b1cdeb;
+  }
+  .sty a{
+     text-decoration: none;
+  }
+  .navbar{
+    box-shadow: 0px 0px 4px;
+   
+  }
